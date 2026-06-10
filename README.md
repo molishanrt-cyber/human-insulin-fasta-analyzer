@@ -1,7 +1,5 @@
 # human-insulin-fasta-analyzer
 
-# Human Insulin FASTA Analyzer
-
 ## Objective
 To analyze the human insulin gene sequence obtained from NCBI using Python and Biopython.
 
